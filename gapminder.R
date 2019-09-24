@@ -1,2 +1,3 @@
 # test toassign value to variable
-x <- 10
+x <- 11
+y <- 99
